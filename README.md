@@ -1,2 +1,2 @@
-betareg-testing
-===============
+# Initial page
+
